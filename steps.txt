@@ -1,0 +1,3 @@
+cut 1
+rev
+cut 5
